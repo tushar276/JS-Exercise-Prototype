@@ -18,7 +18,7 @@ function Airplane(name) {
   Airplane.prototype.land = function () {
     this.isFlying = false;
   };
-  
+
   
   /*
   // 👇 COMPLETE YOUR WORK BELOW 👇
